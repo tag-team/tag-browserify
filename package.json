@@ -1,0 +1,13 @@
+{
+  "name": "tag-browserify",
+  "version": "1.0.0",
+  "description": "Proof of concept tag with browserify and ecma6 classes",
+  "devDependencies": {
+    "browserify": "^7.0.0",
+    "vinyl-transform": "^1.0.0",
+    "gulp": "^3.8.10",
+    "gulp-webserver": "^0.8.8"
+  },
+  "author": "Christian Kohler",
+  "license": "ISC"
+}
